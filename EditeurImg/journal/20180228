@@ -1,0 +1,20 @@
+Journal de la semaine du 21 fevrier au 28 fevrier
+
+MEZIANE WACIM : Chargement d'une image									
+
+SYLLA AHMED : chargement d'une image
+
+ABOU LOUIS : progression sur la sélection d'une région
+
+Pour la semaine prochaine:
+
+21 Mars
+
+- Consulter sdl event pour la gestion de la sélection
+- Rempalcer renderer par surface
+
+28 Mars
+
+- Mettre le makefile dans le Master
+- Lire le tutoriel
+- DIagramme d'architecture (écrire les fonctions, les dépendances, etc)
