@@ -1,0 +1,9 @@
+Depuis le debut:
+
+On s’est amuse a chercher quel parser utiliser, et on nous a conseillé beautifulsoup, on a donc tester son fonctionnement, et ca nous plait bien. On a réussi a parser des pages html, toutefois, on n’a pas mis les résultats dans un fichier. 
+
+On ne s’est pas vraiment encore reparti les taches, on cherche chacun de notre cote, et on essaie de mettre ce que l’on trouve en commun.
+
+Pour la semaine du 27/02 au 05/03:
+- avancer sur le parser
+- continuer sur les recherches pour combiner les composantes du projet.
